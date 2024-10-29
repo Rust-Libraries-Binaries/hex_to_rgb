@@ -6,6 +6,11 @@ edition = "2018"
 description = "A simple Rust library to convert hex color codes to RGB values."
 license = "MIT"
 repository = "https://github.com/bensatlantik/hex_to_rgb"
-
+homepage = "https://github.com/bensatlantik/hex_to_rgb"
+documentation = "https://docs.rs/hex_to_rgb"
 readme = "README.md"
+keywords = ["hex", "color", "RGB", "conversion"]
+categories = ["graphics", "text-processing"]
 
+[dependencies]
+# (Add dependencies if needed)
