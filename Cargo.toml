@@ -10,7 +10,7 @@ homepage = "https://github.com/bensatlantik/hex_to_rgb"
 documentation = "https://docs.rs/hex_to_rgb"
 readme = "README.md"
 keywords = ["hex", "color", "RGB", "conversion"]
-categories = ["graphics", "text-processing"]
+categories = ["graphics"]
 
 [dependencies]
 # (Add dependencies if needed)
