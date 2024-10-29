@@ -8,7 +8,6 @@ To use hex_to_rgb, add it to your Cargo.toml:
 hex_to_rgb = "0.1.0"
 
 Then, in your Rust code:
-
 use hex_to_rgb::hex_to_rgb;
 
 fn main() {
