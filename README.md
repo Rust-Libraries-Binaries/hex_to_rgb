@@ -8,6 +8,7 @@ To use hex_to_rgb, add it to your Cargo.toml:
 hex_to_rgb = "0.1.0"
 
 Then, in your Rust code:
+```rust
 use hex_to_rgb::hex_to_rgb;
 
 fn main() {
@@ -15,6 +16,7 @@ let rgb = hex_to_rgb("#FF5733").unwrap();
 println!("The color #FF5733 is represented as RGB {:?}", rgb);
 // Outputs: The color #FF5733 is represented as RGB (255, 87, 51)
 }
+```
 
 ## Features
 Converts hex color codes (like #RRGGBB) to RGB tuples ((u8, u8, u8)).
@@ -24,3 +26,5 @@ Includes error handling for invalid hex inputs.
 ## License
 This project is licensed under the MIT License.
 
+## Author
+Ben Santora (<bensatlantik@gmail.com>)
