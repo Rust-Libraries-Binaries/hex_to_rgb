@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 ## hex_to_rgb
 hex_to_rgb is a simple Rust library that converts a hexadecimal color code (in #RRGGBB format) to an RGB tuple ((u8, u8, u8)). This crate is designed for quick, lightweight color conversions, making it useful for applications that work with color manipulation and representation.
 
@@ -27,4 +31,4 @@ Includes error handling for invalid hex inputs.
 This project is licensed under the MIT License.
 
 ## Author
-Ben Santora (<bensatlantik@gmail.com>)
+Ben Santora 
